@@ -19,3 +19,11 @@
 ### 2. 순위기록 페이지
 
 ### 3. 관전포인트 페이지
+
+<br/>
+
+## 🛠 기술스택
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/shadcn.ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
